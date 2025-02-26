@@ -25,6 +25,12 @@ O **modelo baseado no consumo** é um dos pilares da computação em nuvem. Nele
 #### 2. Confiabilidade e da previsibilidade na nuvem.
 #### 3. Segurança e da governança na nuvem.
 #### 4. Capacidade de gerenciamento na nuvem.
+
+### 💡 Tipos de Serviço de Nuvem
+#### 1. IaaS (Infraestrutura como serviço).
+#### 2. PaaS (Plataforma como serviço).
+#### 3. SaaS (Software como Serviço).
+
 #
 #
 ⚠️ **Com o avanço do bootcamp, mais informações seram adicionadas nesse repositório.**

@@ -20,4 +20,11 @@ A **computação em nuvem** é a entrega de serviços de computação, como arma
 
 O **modelo baseado no consumo** é um dos pilares da computação em nuvem. Nele, os usuários pagam apenas pelos recursos que consomem, sem custos iniciais ou compromissos de longo prazo. Isso elimina a necessidade de investimentos em infraestrutura física e permite maior flexibilidade financeira.
 
+### 🌐 Benefícios da Computação em Nuvem
+#### 1. Alta disponibilidade e da escalabilidade na nuvem.
+#### 2. Confiabilidade e da previsibilidade na nuvem.
+#### 3. Segurança e da governança na nuvem.
+#### 4. Capacidade de gerenciamento na nuvem.
+#
+#
 ⚠️ **Com o avanço do bootcamp, mais informações seram adicionadas nesse repositório.**

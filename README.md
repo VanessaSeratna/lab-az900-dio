@@ -31,6 +31,8 @@ O **modelo baseado no consumo** é um dos pilares da computação em nuvem. Nele
 #### 2. PaaS (Plataforma como serviço).
 #### 3. SaaS (Software como Serviço).
 
+### ⚒️ Construindo Arquiteturas no Azure
+#### Nesta parte do curso, fizemos um laboratório onde construimos um grupo de recursos e uma rede virtual.
 #
 #
 ⚠️ **Com o avanço do bootcamp, mais informações seram adicionadas nesse repositório.**

@@ -33,6 +33,34 @@ O **modelo baseado no consumo** é um dos pilares da computação em nuvem. Nele
 
 ### ⚒️ Construindo Arquiteturas no Azure
 #### Nesta parte do curso, fizemos um laboratório onde construimos um grupo de recursos e uma rede virtual.
+
+### 🖥️ Criação de VM pelo Portal do Azure
+#### Passos para Criação da VM
+
+#### 1. Acesse o Portal do Azure:
+   - Entre no [Portal do Azure](https://portal.azure.com) com suas credenciais.
+
+#### 2. Criar um Grupo de Recursos:
+   - No menu à esquerda, selecione **"Grupos de Recursos"**.
+   - Clique em **"Criar"** e preencha os campos necessários (Nome, Assinatura, Região).
+
+#### 3. Criar a Máquina Virtual:
+   - No menu à esquerda, selecione **"Máquinas Virtuais"**.
+   - Clique em **"Criar"** e escolha **"Máquina Virtual"**.
+   - Preencha os detalhes necessários:
+     - **Assinatura**: Escolha sua assinatura.
+     - **Grupo de Recursos**: Selecione o grupo criado anteriormente.
+     - **Nome da VM**: Defina um nome para a VM.
+     - **Região**: Escolha a região desejada.
+     - **Imagem**: Selecione uma imagem (ex: Ubuntu Server, Windows Server).
+     - **Tamanho**: Escolha o tamanho da VM.
+     - **Nome de usuário e Senha**: Defina as credenciais de acesso.
+   - Revise as configurações e clique em **"Revisar + criar"**.
+   - Após a validação, clique em **"Criar"**.
+
+#### 4. Conectar à VM:
+   - Após a criação, acesse a VM pelo portal.
+   - Use as credenciais definidas para conectar-se via SSH (Linux) ou RDP (Windows).
 #
 #
 ⚠️ **Com o avanço do bootcamp, mais informações seram adicionadas nesse repositório.**

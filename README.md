@@ -61,6 +61,20 @@ O **modelo baseado no consumo** é um dos pilares da computação em nuvem. Nele
 #### 4. Conectar à VM:
    - Após a criação, acesse a VM pelo portal.
    - Use as credenciais definidas para conectar-se via SSH (Linux) ou RDP (Windows).
+
+### ⚙️ Armazenamento no Azure
+Nesta parte do repositório contém exemplos e documentação sobre como utilizar o Armazenamento do Azure, um serviço de armazenamento em nuvem da Microsoft que oferece soluções escaláveis e seguras para armazenamento de dados.
+
+#### Visão Geral
+
+O Armazenamento do Azure é um serviço de armazenamento em nuvem que oferece diferentes tipos de armazenamento para atender a diversas necessidades:
+
+- **Blob Storage**: Armazenamento de objetos para textos ou dados binários, como arquivos de mídia, backups, etc.
+- **File Storage**: Armazenamento de arquivos acessíveis via SMB (Server Message Block), ideal para compartilhamento de arquivos.
+- **Queue Storage**: Armazenamento de mensagens para comunicação assíncrona entre componentes de aplicativos.
+- **Table Storage**: Armazenamento NoSQL para dados semi-estruturados.
+
+
 #
 #
 ⚠️ **Com o avanço do bootcamp, mais informações seram adicionadas nesse repositório.**

@@ -69,12 +69,24 @@ Nesta parte do repositório contém exemplos e documentação sobre como utiliza
 
 O Armazenamento do Azure é um serviço de armazenamento em nuvem que oferece diferentes tipos de armazenamento para atender a diversas necessidades:
 
-- **Blob Storage**: Armazenamento de objetos para textos ou dados binários, como arquivos de mídia, backups, etc.
-- **File Storage**: Armazenamento de arquivos acessíveis via SMB (Server Message Block), ideal para compartilhamento de arquivos.
-- **Queue Storage**: Armazenamento de mensagens para comunicação assíncrona entre componentes de aplicativos.
-- **Table Storage**: Armazenamento NoSQL para dados semi-estruturados.
+   - **Blob Storage**: Armazenamento de objetos para textos ou dados binários, como arquivos de mídia, backups, etc.
+   - **File Storage**: Armazenamento de arquivos acessíveis via SMB (Server Message Block), ideal para compartilhamento de arquivos.
+   - **Queue Storage**: Armazenamento de mensagens para comunicação assíncrona entre componentes de aplicativos.
+   - **Table Storage**: Armazenamento NoSQL para dados semi-estruturados.
 
-
+### 🪪 Identidade, Acesso e Segurança no Azure
+Nessa sessão do repositório contém recursos, exemplos de código e documentação relacionados à gestão de identidade, acesso e segurança no Microsoft Azure. Aqui, você encontrará informações sobre serviços como Azure Active Directory (Azure AD), RBAC (Role-Based Access Control), Azure Security Center e muito mais, visando garantir a proteção e conformidade dos recursos na nuvem.
+   - ID do Microsoft Entra: É o serviço de gerenciamento de identidades e acesso baseado em nuvem do Microsoft Azure.
+     - **Microsoft Entra Domain Services**: É um serviço gerenciado da Microsoft que fornece serviços de domínio compatíveis com o Microsoft Entra diretamente na nuvem do Azure.
+   - Autenticação e Autorização:
+     - **Autenticação**: É o processo de verificar a identidade de um usuário, sistema ou entidade que tenta acessar um recurso, sistema ou aplicação. Em outras palavras, é o mecanismo que confirma que alguém ou algo é realmente quem ou o que diz ser.
+     - **Autorização**: É o processo que define o que um usuário ou sistema autenticado pode ou não fazer dentro de um ambiente ou aplicação.
+     - **Auenticação Multifator (MFA)**: Fornece segurança adicional, para as identdades, exigindo dois ou mais elementos para autenticação completa.
+   - B2B do Microsoft Entra External ID: É uma solução da Microsoft que permite que organizações compartilhem aplicativos, serviços e recursos com usuários externos, como parceiros, fornecedores ou clientes, de forma segura e controlada. 
+   - Azure AD B2C: É um serviço de gerenciamento de identidades da Microsoft projetado para aplicativos voltados ao consumidor. Ele permite que você personalize e controle como os usuários se inscrevem, fazem login e gerenciam seus perfis ao usar seus aplicativos, sejam eles web, móveis ou de desktop.
+   - Acesso Condicional: Ele ajuda a proteger os recursos da sua organização contra ameaças, como logins suspeitos, dispositivos não gerenciados ou acessos de locais inesperados.
+   - Controle de Acesso Baseado em Função (RBAC): É um sistema de gerenciamento de permissões que permite controlar o acesso a recursos no Azure de forma granular e organizada.
+   - Microsoft Defender para Nuvem: É uma solução de segurança unificada para proteger cargas de trabalho em nuvem, sejam elas executadas no Azure, em outras nuvens (como AWS ou Google Cloud) ou em ambientes híbridos.
 #
 #
 ⚠️ **Com o avanço do bootcamp, mais informações seram adicionadas nesse repositório.**

@@ -87,8 +87,9 @@ Nessa sessão do repositório contém recursos, exemplos de código e documenta�
    - Acesso Condicional: Ele ajuda a proteger os recursos da sua organização contra ameaças, como logins suspeitos, dispositivos não gerenciados ou acessos de locais inesperados.
    - Controle de Acesso Baseado em Função (RBAC): É um sistema de gerenciamento de permissões que permite controlar o acesso a recursos no Azure de forma granular e organizada.
    - Microsoft Defender para Nuvem: É uma solução de segurança unificada para proteger cargas de trabalho em nuvem, sejam elas executadas no Azure, em outras nuvens (como AWS ou Google Cloud) ou em ambientes híbridos.
+
 ### 💰 Gerenciamento de Custos
-Este repoditório contém informações para ajudar no controle de custos, identificação de desperdícios e alocação precisa de recursos na Azure.
+Este repositório contém informações para ajudar no controle de custos, identificação de desperdícios e alocação precisa de recursos na Azure.
    - Fatores que afetam os custos são: 
      - Tipos de recursos, Consumo, Área Geográfica, Tráfico de Rede e Assinatura.
    - Calculadora de preço: Ferramenta para estimar custos de serviços Microsoft Azure antes da implementação.
